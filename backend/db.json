@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Tesoura escolar",
+      "price": 8.69
+    },
+    {
+      "id": 3,
+      "name": "Estojo Ben 10",
+      "price": 17.29
+    },
+    {
+      "id": 4,
+      "name": "Cola branca",
+      "price": 3.99
+    },
+    {
+      "id": 5,
+      "name": "Caderno 10 matérias",
+      "price": 21.55
+    },
+    {
+      "id": 6,
+      "name": "Mochila Barbie",
+      "price": 92
+    },
+    {
+      "id": 7,
+      "name": "Giz de cera",
+      "price": 11.4
+    },
+    {
+      "id": 8,
+      "name": "Borracha branca",
+      "price": 2
+    },
+    {
+      "id": 9,
+      "name": "Canetinhas sortidas",
+      "price": 13.25
+    },
+    {
+      "id": 10,
+      "name": "Lápis HB2",
+      "price": 1.99
+    },
+    {
+      "id": 11,
+      "name": "Cola bastão",
+      "price": 3.55
+    }
+  ]
+}
