@@ -1,0 +1,14 @@
+.sidenav {
+  position: fixed;
+  top: 64px;
+  bottom: 64px;
+  background-color: #501099;
+}
+
+.sidenav a {
+  color: #ffffff;
+}
+
+.sidenav i {
+  padding-right: 0.5rem;
+}
