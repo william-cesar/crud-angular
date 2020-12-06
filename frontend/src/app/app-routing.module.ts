@@ -11,11 +11,11 @@ const routes: Routes = [
     component: HomeComponent,
   },
   {
-    path: "produtos",
+    path: "products",
     component: ProductCrudComponent,
   },
   {
-    path: "produto/criar",
+    path: "product/create",
     component: ProductCreateComponent,
   },
 ];
