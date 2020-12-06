@@ -54,6 +54,11 @@
       "id": 11,
       "name": "Cola bastão",
       "price": 3.55
+    },
+    {
+      "name": "Produto do formulário",
+      "price": "54.43",
+      "id": 12
     }
   ]
 }
