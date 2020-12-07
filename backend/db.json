@@ -36,9 +36,9 @@
       "price": 11.4
     },
     {
-      "id": 8,
-      "name": "Borracha branca",
-      "price": 2
+      "name": "Produto do formulário",
+      "price": "1.25",
+      "id": 8
     }
   ]
 }
