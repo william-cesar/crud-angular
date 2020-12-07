@@ -1,5 +1,5 @@
 <mat-card>
-  <mat-card-title class="title">Adicionar produto</mat-card-title>
+  <mat-card-title class="title">Remover produto</mat-card-title>
   <form>
     <mat-form-field>
       <input
@@ -7,6 +7,7 @@
         placeholder="Nome do produto"
         [(ngModel)]="product.name"
         name="name"
+        disabled
       />
     </mat-form-field>
     <mat-form-field>
@@ -15,12 +16,13 @@
         placeholder="Preço (R$)"
         [(ngModel)]="product.price"
         name="price"
+        disabled
       />
     </mat-form-field>
   </form>
 
-  <button mat-raised-button (click)="createProduct()" color="primary">
-    Salvar produto
+  <button mat-raised-button (click)="deleteProduct()" color="warn">
+    Remover
   </button>
 
   <button mat-raised-button (click)="cancel()">Cancelar</button>

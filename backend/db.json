@@ -39,26 +39,6 @@
       "id": 8,
       "name": "Borracha branca",
       "price": 2
-    },
-    {
-      "id": 9,
-      "name": "Canetinhas sortidas",
-      "price": 13.25
-    },
-    {
-      "id": 10,
-      "name": "Lápis HB2",
-      "price": 1.99
-    },
-    {
-      "id": 11,
-      "name": "Cola bastão",
-      "price": 3.55
-    },
-    {
-      "name": "Produto do formulário",
-      "price": "54.43",
-      "id": 12
     }
   ]
 }
