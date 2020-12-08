@@ -29,6 +29,9 @@ export class NavComponent implements AfterViewInit {
   ngAfterViewInit(): void {
     this.sidenavService.sidenavToggleSubject.subscribe(() => {
       this.sidenav.toggle();
+      if (window.innerWidth > 500) {
+        this.sidenav.mode = "side";
+      }
     });
   }
 }
