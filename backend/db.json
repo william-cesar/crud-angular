@@ -34,11 +34,6 @@
       "id": 7,
       "name": "Giz de cera",
       "price": 11.4
-    },
-    {
-      "name": "Produto do formulário",
-      "price": "1.25",
-      "id": 8
     }
   ]
 }

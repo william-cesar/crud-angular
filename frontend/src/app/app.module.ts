@@ -28,6 +28,7 @@ import { ErrorComponent } from "./views/error/error.component";
 
 import localePt from "@angular/common/locales/pt";
 import { registerLocaleData } from "@angular/common";
+import { SidenavService } from "./components/template/nav/sidenav.service";
 
 registerLocaleData(localePt);
 @NgModule({
@@ -65,6 +66,7 @@ registerLocaleData(localePt);
       provide: LOCALE_ID,
       useValue: "pt-BR",
     },
+    SidenavService,
   ],
   bootstrap: [AppComponent],
 })

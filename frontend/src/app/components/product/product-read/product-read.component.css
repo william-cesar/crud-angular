@@ -11,3 +11,17 @@ table {
   color: blue;
   margin-right: 1rem;
 }
+
+@media (max-width: 460px) {
+  .mat-column-action {
+    padding-right: 5px !important;
+  }
+
+  .mat-column-id {
+    padding-left: 10px !important;
+  }
+
+  .edit {
+    margin-right: 5px;
+  }
+}
